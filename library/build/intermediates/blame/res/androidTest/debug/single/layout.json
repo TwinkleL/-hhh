@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\work\\Day29SlidingM\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\work\\Day29SlidingM\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\work\\Day29sliding\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\work\\Day29sliding\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\work\\Day29homework\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\work\\Day29homework\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    }
+]
